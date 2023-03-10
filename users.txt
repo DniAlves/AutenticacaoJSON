@@ -1,0 +1,17 @@
+[{
+"login": "usuario1", "senha": "senha1", "papel": "admin"
+},{
+"login": "usuario2", "senha": "senha2","papel": "usuario"
+},{
+"login": "usuario3", "senha": "senha3", "papel": "usuario"
+},{
+"login": "usuario4", "senha": "senha4", "papel": "admin"
+},{
+"login": "usuario5", "senha": "senha5", "papel": "usuario"
+}]
+
+
+
+
+
+

@@ -1,0 +1,112 @@
+
+
+body{
+  width: 100%;
+  background-color: #9fdef9;
+}
+
+form{
+  position: absolute;
+  top: 50%;
+  right: 60%;
+  width: 500px;
+  padding: 40px;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  border-radius: 10px;
+  text-align: center;
+  border: 1px solid black;
+  box-shadow: 3px 1.5px 3px 3px #000000;
+  align-itens: center;
+  justify-content: cente;
+      flex-direction: column;
+  text-align: center;
+}
+
+.content{
+  display: flex;
+  flex-direction: row;
+  align-itens: center;
+  justify-content: center;
+  text-align: center;
+  width:;
+}
+
+.box-two{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 500px;
+  padding: 40px;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  border-radius: 10px;
+  display: inline-block;
+  text-align: center;
+  border: 1px solid black;
+  box-shadow: 3px 1.5px 3px 3px #000000;
+  align-itens: center;
+  justify-content: center;
+  text-align: center;
+  
+}
+.content h1{
+  margin: 0 0 30px;
+  padding: 0;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
+
+.content input{
+  width: 200px;
+  margin: 0 0 15px;
+  height: 20px;
+}
+
+.content .user-box {
+  position: relative;
+}
+
+.content .user-box input {
+  width: 100%;
+  padding: 10px 0;
+  font-size: 16px;
+  color: #fff;
+  margin-bottom: 30px;
+  border: none;
+  border-bottom: 1px solid #fff;
+  outline: none;
+  background: transparent;
+}
+.content .user-box label {
+  position: absolute;
+  top:0;
+  left: 0;
+  padding: 10px 0;
+  font-size: 16px;
+  color: #fff;
+  pointer-events: none;
+  transition: .5s;
+}
+
+.content form button {
+  position: relative;
+  display: inline-block;
+  padding: 5px 10px;
+  font-size: 12px;
+  text-decoration: none;
+  text-transform: uppercase;
+  overflow: hidden;
+  transition: .5s;
+  margin-top: 25px;
+}
+button {
+  border-radius: 10px;
+  border: none;
+  color: white; 
+  background: black;
+}
+button:hover{
+  background: white;
+  color: black;
+}
