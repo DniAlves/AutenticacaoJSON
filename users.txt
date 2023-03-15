@@ -1,13 +1,15 @@
 [{
-"login": "usuario1", "senha": "senha1", "papel": "admin"
+"login": "Lucas", "senha": "123456", "cargo": "Moderativo"
 },{
-"login": "usuario2", "senha": "senha2","papel": "usuario"
+"login": "Camila", "senha": "654321","cargo": "Comum"
 },{
-"login": "usuario3", "senha": "senha3", "papel": "usuario"
+"login": "Rafael", "senha": "321912", "cargo": "Moderativo"
 },{
-"login": "usuario4", "senha": "senha4", "papel": "admin"
+"login": "Isabela", "senha": "182820", "cargo": "Comum"
 },{
-"login": "usuario5", "senha": "senha5", "papel": "usuario"
+"login": "Matheus", "senha": "921923", "cargo": "Comum"
+},{
+"login": "Mariana", "senha": "118391", "cargo": "Moderativo"
 }]
 
 
